@@ -1,3 +1,4 @@
+
 <h1 align="center">Max Cavalheiro</h1>
 
 <p align="center">
@@ -5,14 +6,9 @@
   Florianópolis, Brazil
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/max-cavalheiro">
-    <img src="https://img.shields.io/badge/LinkedIn-maxcavalheiro-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:cavalheirof.max@gmail.com">
-    <img src="https://img.shields.io/badge/Email-cavalheirof.max@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<p  align="center"> 
+	<a href="https://linkedin.com/in/max-cavalheiro">
+		<img  src="https://img.shields.io/badge/LinkedIn-maxcavalheiro-0A66C2?style=flat-square&logo=linkedin&logoColor=white"  alt="LinkedIn"/></a> &nbsp; <a  href="mailto:cavalheirof.max@gmail.com"> <img  src="https://img.shields.io/badge/Email-cavalheirof.max@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"  alt="Email"/> </a> </p>
 
 ---
 
